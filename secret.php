@@ -8,6 +8,6 @@
 <body>
     <h1>Gotcha</h1>
     <h2><?php echo "This is PHP code inside html"?> </h2>
-    <a href="/verycool/index.html">back</a>
+    <a href="/verycool/index.php">back</a>
 </body>
 </html>
